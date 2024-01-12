@@ -1,7 +1,7 @@
 # 0x00. AirBnB clone - The console
 
 <p align="center">
-  <img src='./utils/HBNB.png' border='0' alt='Air-Bn-B-Project'/>
+  <img src='https://github.com/aglago/AirBnB_clone/blob/main/utils/HBNB.png' border='0' alt='Air-Bn-B-Project'/>
 </p>
 
 
