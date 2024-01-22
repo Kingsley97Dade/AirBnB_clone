@@ -1,0 +1,2 @@
+# WEB STATIC
+<h1>HTML, CSS FORNT END</h1>
